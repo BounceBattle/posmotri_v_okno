@@ -86,9 +86,6 @@ ol {
   gap: 26px;
 }
 
-.result {
-  margin-bottom: 15px;
-}
 
 .search-form__fieldset {
   display: inline-flex;
@@ -104,6 +101,7 @@ ol {
   align-items: end;
   display: flex;
   position: relative;
+  margin-bottom: 20px;
 }
 
 .result__video {
